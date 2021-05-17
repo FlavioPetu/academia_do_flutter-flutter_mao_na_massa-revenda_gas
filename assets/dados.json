@@ -1,0 +1,39 @@
+[
+    {
+        "tipo": "Multimarcas",
+        "nome": "Unigas",
+        "cor": "000000",
+        "nota": 4.5,
+        "tempoMedio": "30-45",
+        "melhorPreco": false,
+        "preco": 74.90
+    },
+    {
+        "tipo": "Liquigás",
+        "nome": "Yama Gás Bom Pastor",
+        "cor": "5EBA7D",
+        "nota": 4.6,
+        "tempoMedio": "30-45",
+        "melhorPreco": true,
+        "preco": 72.00
+    },
+    {
+        "tipo": "Consigaz",
+        "nome": "Queiros Filho",
+        "cor": "34AAFF",
+        "nota": 4.8,
+        "melhorPreco": false,
+        "tempoMedio": "30-50",
+        "preco": 80.00
+    },
+    {
+        "tipo": "Multimarcas",
+        "nome": "Mundial Gás",
+        "cor": "000000",
+        "nota": 4.7,
+        "melhorPreco": false,
+        "tempoMedio": "30-45",
+        "preco": 82.90
+        
+    }
+]
